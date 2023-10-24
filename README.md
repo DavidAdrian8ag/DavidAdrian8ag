@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently perfecting **HTML, CSS, SASS, Boostrap, JavaScript, React**
 
-- 👨‍💻 All of my projects are available at [https://davidadrian8ag.netlify.app/](https://davidadrian8a.is-a.dev)
+- 👨‍💻 All of my projects are available at [https://davidadrian8a.is-a.dev](https://davidadrian8a.is-a.dev)
 
 - 💬 Ask me about **HTML, CSS**
 
